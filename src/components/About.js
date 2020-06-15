@@ -8,11 +8,13 @@ const About = () => (
         <h5 className="card-title">Silva Ramón A.</h5>
         <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
           <div className="card-body bs-component">
-            <a href="https://www.linkedin.com/in/ramon-alejandrino-silva" className="card-link btn btn-outline-info">LinkedIn</a>
-            <a href="https://github.com/AlejandrinoSilva/" className="card-link btn btn-outline-info">Github</a>
+            <div className="list-group">
+            <a href="https://www.linkedin.com/in/ramon-alejandrino-silva" className="list-group-item list-group-item-action">LinkedIn</a>
+            <a href="https://github.com/AlejandrinoSilva/" className="list-group-item list-group-item-action">Github</a>
           </div>
       </div>
   </div>
+</div>
 
 )
 

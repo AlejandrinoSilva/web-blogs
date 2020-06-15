@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Cuerpo = () => (
+const Index = () => (
   <div className="container">
   <p>Auto-sizing
 The example below uses a flexbox utility to vertically
@@ -10,4 +10,4 @@ your columns only take up as much space as needed. Put another way,
   </div>
 )
 
-export default Cuerpo;
+export default Index;
