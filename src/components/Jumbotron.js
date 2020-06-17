@@ -11,7 +11,7 @@ function Jumbotron() {
   return (
   <main role="main">
 
-  <div className="jumbotron bg-primary jumbotron-fluid">
+  <div className="jumbotron bg-jumb jumbotron-fluid">
     <div className="container text-center">
       <h1 className="display-4 font-weight-bold jumtit">Web Blogs</h1>
       <p className="">Bienvenido a este pequeño espacio donde vamos a compartir<br />

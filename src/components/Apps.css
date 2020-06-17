@@ -1,16 +1,22 @@
-# Fuentes externas que se van agregando para el proyecto
+
 .tit{
-  font-family: 'Bree Serif', serif;
+  font-family: 'Neucha', cursive;
 }
 
 .jumtit{
-  font-family: 'Neucha', -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-family: 'Cabin Sketch', cursive;
+  font-weight: 900;
+  font-style: normal;
 }
 
 body {
   padding-top: 3.5rem;
 }
 
-.thumby{
+.nav-sketch{
+  font-family: 'Cabin Sketch', cursive;
+}
 
+.bg-jumb{
+  background-color: #789bc1 !important;
 }
