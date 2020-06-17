@@ -1,12 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Suez+One&display=swap');
-
-@font-face {
-  font-family: 'Suez One', serif;
-  src: url('https://fonts.googleapis.com/css2?family=Suez+One&display=swap');
-}
-
-.grand{
-  font-family: 'Suez One', serif;
+# Fuentes externas que se van agregando para el proyecto
+.tit{
+  font-family: 'Bree Serif', serif;
 }
 
 body {

@@ -1,6 +1,7 @@
 import React from 'react';
 
 const About = () => (
+  <div className="container">
   <div className="card p-4 mb-3 rounded">
     <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpng.pngtree.com%2Felement_our%2Fpng_detail%2F20181206%2Fusers-vector-icon-png_260862.jpg&f=1&nofb=1"
       className="card-img-top" alt="..." />
@@ -14,6 +15,7 @@ const About = () => (
           </div>
       </div>
   </div>
+</div>
 </div>
 
 )

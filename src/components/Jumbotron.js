@@ -11,8 +11,10 @@ function Jumbotron() {
 
   <div className="jumbotron bg-primary jumbotron-fluid">
     <div className="container">
-      <h1 className="display-4 font-weight-bold grand">Web Blogs</h1>
-      <p className="">This is a template for a simple marketing or informational website. It includes a large callout called a jumbotron and three supporting pieces of content. Use it as a starting point to create something more unique.</p>
+      <h1 className="display-4 font-weight-bold tit">Web Blogs</h1>
+      <p className="">Bienvenido a este pequeño espacio donde vamos a compartir
+      pequeños conocimientos y otras cosas, al pasar el tiempo ire agregando cosas y
+    quitando otras</p>
     </div>
   </div>
 
@@ -25,12 +27,13 @@ function Jumbotron() {
           <Switch>
             <Route exact path="/" component={Index} />
             <Route path="/contact" component={Contact} />
+            <Route path="/about" component={About} />
           </Switch>
         </Router>
         </Layout>
       </div>
       <div className="col-md-4">
-        <About />
+        <h2>Section</h2>
       </div>
     </div>
 
