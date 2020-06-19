@@ -20,3 +20,8 @@ body {
 .bg-jumb{
   background-color: #789bc1 !important;
 }
+
+.img-conf{
+  height: 200px;
+  weight: 200px;
+}
