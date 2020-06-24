@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 const NavBar = () => (
 // <nav className="navbar navbar-expand-md navbar-dark fixed-top bg-dark menu">
@@ -12,23 +13,21 @@ const NavBar = () => (
   <div className="collapse navbar-collapse tit" id="navbarsExampleDefault">
     <ul className="navbar-nav mr-auto">
       <li className="nav-item active">
-        <a className="nav-link" href="/">Home
-          <span className="sr-only">(current)</span>
-        </a>
+        <Link className="nav-link" to="/">Home<span className="sr-only">(current)</span></Link>
       </li>
       <li className="nav-item">
-        <a className="nav-link" href="/Contact">Contacto</a>
+        <Link className="nav-link" to="/Contact">Contacto</Link>
       </li>
       <li className="nav-item">
-        <a className="nav-link" href="/About">Quién soy</a>
+        <Link className="nav-link" to="/About">Quien Soy</Link>
       </li>
       <li className="nav-item dropdown">
         <a className="nav-link dropdown-toggle" href="/" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Japones
         </a>
         <div className="dropdown-menu" aria-labelledby="dropdown01">
-          <a className="dropdown-item" href="/">Action</a>
-          <a className="dropdown-item" href="/">Another action</a>
-          <a className="dropdown-item" href="/">Something else here</a>
+          <Link className="dropdown-item" to="/">Contacto</Link>
+          <Link className="dropdown-item" to="/">Contacto</Link>
+          <Link className="dropdown-item" to="/">Contacto</Link>
         </div>
       </li>
     </ul>

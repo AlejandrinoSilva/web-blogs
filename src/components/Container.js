@@ -13,9 +13,9 @@ const Container = () => (
           <Layout>
             <Router>
               <Switch>
-                <Route exact="exact" path="/" component={Index}/>
-                <Route path="/contact" component={Contact}/>
-                <Route path="/about" component={About}/>
+                <Route exact="exact" path="/" component={Index} />
+                <Route path="/contact" component={Contact} />
+                <Route path="/about" component={About} />
               </Switch>
             </Router>
           </Layout>
