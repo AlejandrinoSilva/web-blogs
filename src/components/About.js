@@ -7,8 +7,8 @@ const About = () => (
     <div className="col-md-4">
             <div className="card card-widget widget-user">
               <div className="widget-user-header text-white img-div-c" style={{position:`center`}}>
-                <h3 className="widget-user-username text-right">Silva Ramón A.</h3>
-                <h5 className="widget-user-desc text-right">Web Designer</h5>
+                <h3 className="widget-user-username ">Silva Ramón A.</h3>
+                <h5 className="widget-user-desc ">Web Designer</h5>
                </div>
               <div className="widget-user-image">
                 <img className="img-circle" src={avatar} alt="User Avatar" />
@@ -59,7 +59,7 @@ const About = () => (
                 <dd>Donec id elit non mi porta gravida at eget metus.</dd>
                 <dt>Malesuada porta</dt>
                 <dd>Etiam porta sem malesuada magna mollis euismod.</dd>
-                <dt>Felis euismod semper eget lacinia</dt>
+                <dt>Hobbit</dt>
                 <dd>Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo
                   sit amet risus.
                 </dd>

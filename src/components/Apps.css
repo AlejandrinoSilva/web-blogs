@@ -4,6 +4,11 @@
   font-size: 18px;
 }
 
+.jtit{
+  font-family: 'Neucha', cursive;
+  font-size: 20px;
+}
+
 .jumtit{
   font-family: 'Cabin Sketch', cursive;
   font-weight: 900;
@@ -16,6 +21,7 @@ body {
 
 .nav-sketch{
   font-family: 'Cabin Sketch', cursive;
+  font-size: 32px;
 }
 
 .bg-jumb{
@@ -44,11 +50,15 @@ body {
 /* CSS EXTRAIDO DE ADMINLTE.IO */
 
 .widget-user .widget-user-username {
+    margin-top: 0;
+    margin-bottom: 5px;
     font-size: 25px;
     font-weight: 300;
-    margin-bottom: 0;
+    text-shadow: 0 1px 1px rgba(0,0,0,0.2);
+}
+
+.widget-user .widget-user-desc {
     margin-top: 0;
-    text-shadow: 0 1px 1px rgba(0,0,0,.2);
 }
 
 .text-right {
@@ -69,11 +79,10 @@ body {
 }
 
 .widget-user .widget-user-header {
-    border-top-left-radius: .25rem;
-    border-top-right-radius: .25rem;
-    height: 135px;
-    padding: 1rem;
-    text-align: center;
+    padding: 20px;
+    height: 120px;
+    border-top-right-radius: 3px;
+    border-top-left-radius: 3px;
 }
 
 .img-circle {
@@ -130,6 +139,7 @@ body {
 
 .box .box-solid {
     border-top: 0;
+
 }
 .box {
     position: relative;
@@ -139,6 +149,11 @@ body {
     margin-bottom: 20px;
     width: 100%;
     box-shadow: 0 1px 1px rgba(0,0,0,0.1);
+}
+
+.box-widget {
+    border: none;
+    position: relative;
 }
 
 .box-header .with-border {
@@ -169,4 +184,11 @@ body {
 .dl {
     margin-top: 0;
     margin-bottom: 20px;
+}
+
+
+/* IOCON */
+
+ion-icon {
+  font-size: 32px;
 }
