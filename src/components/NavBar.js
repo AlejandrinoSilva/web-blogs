@@ -16,10 +16,10 @@ const NavBar = () => (
         <Link className="nav-link" to="/">Home<span className="sr-only">(current)</span></Link>
       </li>
       <li className="nav-item">
-        <Link className="nav-link" to="/Contact">Contacto</Link>
+        <Link className="nav-link" to="/contact">Contacto</Link>
       </li>
       <li className="nav-item">
-        <Link className="nav-link" to="/About">Quien Soy</Link>
+        <Link className="nav-link" to="/about">Quien Soy</Link>
       </li>
       <li className="nav-item dropdown">
         <a className="nav-link dropdown-toggle" href="/" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Japones

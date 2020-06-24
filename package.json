@@ -2,7 +2,7 @@
   "name": "web-blog",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://alejandrinosilva.github.io/web-blogs",
+  "homepage": "https://alejandrinosilva.github.io/web-blogs/",
   "dependencies": {
     "@babel/core": "^7.10.3",
     "@babel/plugin-proposal-class-properties": "^7.10.1",
