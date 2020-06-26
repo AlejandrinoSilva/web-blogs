@@ -25,7 +25,7 @@ const NavBar = () => (
         <a className="nav-link dropdown-toggle" href="/" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Japones
         </a>
         <div className="dropdown-menu" aria-labelledby="dropdown01">
-          <Link className="dropdown-item" to="/">Contacto</Link>
+          <Link className="dropdown-item" to="/japones">Kanji</Link>
           <Link className="dropdown-item" to="/">Contacto</Link>
           <Link className="dropdown-item" to="/">Contacto</Link>
         </div>

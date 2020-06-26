@@ -3,8 +3,8 @@ import NavBar from './components/NavBar';
 import Jumbotron from './components/Jumbotron';
 import Footer from './components/Footer';
 import './components/Apps.css';
-
-import { Route, Switch, Link} from 'react-router-dom';
+import Japones from './components/Japones';
+import { Route, Switch} from 'react-router-dom';
 import Contact from './components/Contact';
 import Index  from './components/Index';
 import About from './components/About';
@@ -30,6 +30,7 @@ class App extends Component {
                         <Route exact="exact" path="/" component={Index} />
                         <Route path="/contact" component={Contact} />
                         <Route path="/about" component={About} />
+                        <Route path="/japones" component={Japones} />
                       </Switch>
                   </Layout>
                 </div>

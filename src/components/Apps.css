@@ -1,7 +1,20 @@
 
+
 .tit{
   font-family: 'Neucha', cursive;
   font-size: 18px;
+}
+
+.td-kanji{
+  width:10px;
+  word-wrap: break-word;
+  font-family: 'Noto Serif JP', serif;
+}
+
+.td-read{
+  width: 150px;
+  word-wrap: break-word;
+  font-family: 'Noto Serif JP', serif;
 }
 
 .jtit{
@@ -100,9 +113,9 @@ body {
     border-top: 0 solid rgba(0,0,0,.125);
 }
 
-.card {
+/* .card {
     word-wrap: break-word;
-}
+} */
 
 .card-widget {
     border: 0;
@@ -156,17 +169,7 @@ body {
     position: relative;
 }
 
-.box-header .with-border {
-    border-bottom: 1px solid #f4f4f4;
-}
-.box-header {
-    color: #444;
-    display: block;
-    padding: 10px;
-    position: relative;
-}
-
-.box-header .box-title {
+.box-title {
     display: inline-block;
     font-size: 20px;
     margin: 0;
@@ -191,4 +194,40 @@ body {
 
 ion-icon {
   font-size: 32px;
+}
+
+.card {
+    box-shadow: 0 0 1px rgba(0,0,0,.125),0 1px 3px rgba(0,0,0,.2);
+    margin-bottom: 1rem;
+}
+.card {
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 0 solid rgba(0,0,0,.125);
+    border-radius: .25rem;
+}
+
+.card-header:first-child {
+    border-radius: calc(.25rem - 0) calc(.25rem - 0) 0 0;
+}
+.card-header {
+    background-color: transparent;
+    border-bottom: 1px solid rgba(0,0,0,.125);
+    padding: .75rem 1.25rem;
+    position: relative;
+    border-top-left-radius: .25rem;
+    border-top-right-radius: .25rem;
+}
+.card-header {
+    padding: .75rem 1.25rem;
+    margin-bottom: 0;
+    background-color: rgba(0,0,0,.03);
+    border-bottom: 0 solid rgba(0,0,0,.125);
 }
