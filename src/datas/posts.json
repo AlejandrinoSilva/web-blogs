@@ -1,474 +1,3306 @@
 [
-{"id":"1","kanji":"人","reading":"この人はキムです","spanish":"span"},
-{"kanji":"父","reading":"父の名前はラモンです","spanish":"span"},
-{"kanji":"母","reading":"母の名前はネリだです","spanish":"span"},
-{"kanji":"親","reading":"read","spanish":"span"},
-{"kanji":"お父さん","reading":"read","spanish":"span"},
-{"kanji":"お母さん","reading":"read","spanish":"span"},
-{"kanji":"伯父","reading":"read","spanish":"span"},
-{"kanji":"叔父さん","reading":"read","spanish":"span"},
-{"kanji":"伯母","reading":"read","spanish":"span"},
-{"kanji":"叔母さん","reading":"read","spanish":"span"},
-{"kanji":"おじいさん","reading":"read","spanish":"span"},
-{"kanji":"おばあさん","reading":"read","spanish":"span"},
-{"kanji":"兄弟","reading":"read","spanish":"span"},
-{"kanji":"兄","reading":"read","spanish":"span"},
-{"kanji":"お兄さん","reading":"read","spanish":"span"},
-{"kanji":"姉","reading":"read","spanish":"span"},
-{"kanji":"お姉さん","reading":"read","spanish":"span"},
-{"kanji":"妹","reading":"read","spanish":"span"},
-{"kanji":"妹さん","reading":"read","spanish":"span"},
-{"kanji":"弟","reading":"read","spanish":"span"},
-{"kanji":"弟さん","reading":"read","spanish":"span"},
-{"kanji":"主人","reading":"read","spanish":"span"},
-{"kanji":"御主人","reading":"read","spanish":"span"},
-{"kanji":"妻","reading":"read","spanish":"span"},
-{"kanji":"奥さん","reading":"read","spanish":"span"},
-{"kanji":"家族","reading":"read","spanish":"span"},
-{"kanji":"男","reading":"read","spanish":"span"},
-{"kanji":"男の子","reading":"read","spanish":"span"},
-{"kanji":"女","reading":"read","spanish":"span"},
-{"kanji":"女の子","reading":"read","spanish":"span"},
-{"kanji":"方","reading":"read","spanish":"span"},
-{"kanji":"大人","reading":"read","spanish":"span"},
-{"kanji":"子供","reading":"read","spanish":"span"},
-{"kanji":"あなた","reading":"read","spanish":"span"},
-{"kanji":"自分","reading":"read","spanish":"span"},
-{"kanji":"生徒","reading":"read","spanish":"span"},
-{"kanji":"先生","reading":"read","spanish":"span"},
-{"kanji":"学生","reading":"read","spanish":"span"},
-{"kanji":"留学生","reading":"read","spanish":"span"},
-{"kanji":"おまわりさん","reading":"read","spanish":"span"},
-{"kanji":"医者","reading":"read","spanish":"span"},
-{"kanji":"お医者さん","reading":"read","spanish":"span"},
-{"kanji":"友達","reading":"read","spanish":"span"},
-{"kanji":"外国人","reading":"read","spanish":"span"},
-{"kanji":"皆さん","reading":"read","spanish":"span"},
-{"kanji":"だれ","reading":"read","spanish":"span"},
-{"kanji":"どなた","reading":"read","spanish":"span"},
-{"kanji":"~たち","reading":"read","spanish":"span"},
-{"kanji":"飲み物","reading":"read","spanish":"span"},
-{"kanji":"食べ物","reading":"read","spanish":"span"},
-{"kanji":"朝御飯","reading":"read","spanish":"span"},
-{"kanji":"昼御飯","reading":"read","spanish":"span"},
-{"kanji":"晩御飯","reading":"read","spanish":"span"},
-{"kanji":"飴","reading":"read","spanish":"span"},
-{"kanji":"お菓子","reading":"read","spanish":"span"},
-{"kanji":"お酒","reading":"read","spanish":"span"},
-{"kanji":"お茶","reading":"read","spanish":"span"},
-{"kanji":"お弁当","reading":"read","spanish":"span"},
-{"kanji":"カレー","reading":"read","spanish":"span"},
-{"kanji":"牛乳","reading":"read","spanish":"span"},
-{"kanji":"果物","reading":"read","spanish":"span"},
-{"kanji":"野菜","reading":"read","spanish":"span"},
-{"kanji":"御飯","reading":"read","spanish":"span"},
-{"kanji":"砂糖","reading":"read","spanish":"span"},
-{"kanji":"塩","reading":"read","spanish":"span"},
-{"kanji":"しょうゆ","reading":"read","spanish":"span"},
-{"kanji":"料理","reading":"read","spanish":"span"},
-{"kanji":"バター","reading":"read","spanish":"span"},
-{"kanji":"パン","reading":"read","spanish":"span"},
-{"kanji":"肉","reading":"read","spanish":"span"},
-{"kanji":"牛肉","reading":"read","spanish":"span"},
-{"kanji":"とり肉","reading":"read","spanish":"span"},
-{"kanji":"豚肉","reading":"read","spanish":"span"},
-{"kanji":"卵","reading":"read","spanish":"span"},
-{"kanji":"ちゃわん","reading":"read","spanish":"span"},
-{"kanji":"はし","reading":"read","spanish":"span"},
-{"kanji":"お皿","reading":"read","spanish":"span"},
-{"kanji":"コップ","reading":"read","spanish":"span"},
-{"kanji":"ナイフ","reading":"read","spanish":"span"},
-{"kanji":"フォーク","reading":"read","spanish":"span"},
-{"kanji":"スプーン","reading":"read","spanish":"span"},
-{"kanji":"灰皿","reading":"read","spanish":"span"},
-{"kanji":"靴","reading":"read","spanish":"span"},
-{"kanji":"スリッパ","reading":"read","spanish":"span"},
-{"kanji":"靴下","reading":"read","spanish":"span"},
-{"kanji":"服","reading":"read","spanish":"span"},
-{"kanji":"洋服","reading":"read","spanish":"span"},
-{"kanji":"コート","reading":"read","spanish":"span"},
-{"kanji":"シャツ","reading":"read","spanish":"span"},
-{"kanji":"ワイシャツ","reading":"read","spanish":"span"},
-{"kanji":"スカート","reading":"read","spanish":"span"},
-{"kanji":"ズボン","reading":"read","spanish":"span"},
-{"kanji":"セーター","reading":"read","spanish":"span"},
-{"kanji":"背広","reading":"read","spanish":"span"},
-{"kanji":"ハンカチ","reading":"read","spanish":"span"},
-{"kanji":"帽子","reading":"read","spanish":"span"},
-{"kanji":"ポケット","reading":"read","spanish":"span"},
-{"kanji":"ボタン","reading":"read","spanish":"span"},
-{"kanji":"たばこ","reading":"read","spanish":"span"},
-{"kanji":"せっけん","reading":"read","spanish":"span"},
-{"kanji":"洗濯","reading":"read","spanish":"span"},
-{"kanji":"掃除","reading":"read","spanish":"span"},
-{"kanji":"買い物","reading":"read","spanish":"span"},
-{"kanji":"家","reading":"read","spanish":"span"},
-{"kanji":"部屋","reading":"read","spanish":"span"},
-{"kanji":"台所","reading":"read","spanish":"span"},
-{"kanji":"お手洗い","reading":"read","spanish":"span"},
-{"kanji":"トイレ","reading":"read","spanish":"span"},
-{"kanji":"お風呂","reading":"read","spanish":"span"},
-{"kanji":"戸","reading":"read","spanish":"span"},
-{"kanji":"ドア","reading":"read","spanish":"span"},
-{"kanji":"窓","reading":"read","spanish":"span"},
-{"kanji":"庭","reading":"read","spanish":"span"},
-{"kanji":"机","reading":"read","spanish":"span"},
-{"kanji":"テーブル","reading":"read","spanish":"span"},
-{"kanji":"いす","reading":"read","spanish":"span"},
-{"kanji":"本棚","reading":"read","spanish":"span"},
-{"kanji":"ベッド","reading":"read","spanish":"span"},
-{"kanji":"ストーブ","reading":"read","spanish":"span"},
-{"kanji":"電気","reading":"read","spanish":"span"},
-{"kanji":"電話","reading":"read","spanish":"span"},
-{"kanji":"家庭","reading":"read","spanish":"span"},
-{"kanji":"物","reading":"read","spanish":"span"},
-{"kanji":"お金","reading":"read","spanish":"span"},
-{"kanji":"眼鏡","reading":"read","spanish":"span"},
-{"kanji":"かばん","reading":"read","spanish":"span"},
-{"kanji":"ペン","reading":"read","spanish":"span"},
-{"kanji":"ボールペン","reading":"read","spanish":"span"},
-{"kanji":"鉛筆","reading":"read","spanish":"span"},
-{"kanji":"紙","reading":"read","spanish":"span"},
-{"kanji":"箱","reading":"read","spanish":"span"},
-{"kanji":"封筒","reading":"read","spanish":"span"},
-{"kanji":"葉書","reading":"read","spanish":"span"},
-{"kanji":"切手","reading":"read","spanish":"span"},
-{"kanji":"本","reading":"read","spanish":"span"},
-{"kanji":"雑誌","reading":"read","spanish":"span"},
-{"kanji":"新聞","reading":"read","spanish":"span"},
-{"kanji":"辞書","reading":"read","spanish":"span"},
-{"kanji":"地図","reading":"read","spanish":"span"},
-{"kanji":"カレンダー","reading":"read","spanish":"span"},
-{"kanji":"冷蔵庫","reading":"read","spanish":"span"},
-{"kanji":"テレビ","reading":"read","spanish":"span"},
-{"kanji":"ラジオ","reading":"read","spanish":"span"},
-{"kanji":"テープ","reading":"read","spanish":"span"},
-{"kanji":"テープレコーダー","reading":"read","spanish":"span"},
-{"kanji":"カメラ","reading":"read","spanish":"span"},
-{"kanji":"時計","reading":"read","spanish":"span"},
-{"kanji":"ギター","reading":"read","spanish":"span"},
-{"kanji":"フィルム","reading":"read","spanish":"span"},
-{"kanji":"傘","reading":"read","spanish":"span"},
-{"kanji":"花瓶","reading":"read","spanish":"span"},
-{"kanji":"切符","reading":"read","spanish":"span"},
-{"kanji":"車","reading":"read","spanish":"span"},
-{"kanji":"自動車","reading":"read","spanish":"span"},
-{"kanji":"自転車","reading":"read","spanish":"span"},
-{"kanji":"飛行機","reading":"read","spanish":"span"},
-{"kanji":"船","reading":"read","spanish":"span"},
-{"kanji":"エレベーター","reading":"read","spanish":"span"},
-{"kanji":"エスカレーター","reading":"read","spanish":"span"},
-{"kanji":"時間","reading":"read","spanish":"span"},
-{"kanji":"今日","reading":"read","spanish":"span"},
-{"kanji":"昨日","reading":"read","spanish":"span"},
-{"kanji":"あした","reading":"read","spanish":"span"},
-{"kanji":"あさって","reading":"read","spanish":"span"},
-{"kanji":"おととい","reading":"read","spanish":"span"},
-{"kanji":"午前","reading":"read","spanish":"span"},
-{"kanji":"午後","reading":"read","spanish":"span"},
-{"kanji":"今年","reading":"read","spanish":"span"},
-{"kanji":"来年","reading":"read","spanish":"span"},
-{"kanji":"去年","reading":"read","spanish":"span"},
-{"kanji":"おととし","reading":"read","spanish":"span"},
-{"kanji":"さ来年","reading":"read","spanish":"span"},
-{"kanji":"今週","reading":"read","spanish":"span"},
-{"kanji":"来週","reading":"read","spanish":"span"},
-{"kanji":"先週","reading":"read","spanish":"span"},
-{"kanji":"今月","reading":"read","spanish":"span"},
-{"kanji":"来月","reading":"read","spanish":"span"},
-{"kanji":"先月","reading":"read","spanish":"span"},
-{"kanji":"朝","reading":"read","spanish":"span"},
-{"kanji":"昼","reading":"read","spanish":"span"},
-{"kanji":"夕方","reading":"read","spanish":"span"},
-{"kanji":"晩","reading":"read","spanish":"span"},
-{"kanji":"夜","reading":"read","spanish":"span"},
-{"kanji":"ゆうべ","reading":"read","spanish":"span"},
-{"kanji":"今朝","reading":"read","spanish":"span"},
-{"kanji":"今晩","reading":"read","spanish":"span"},
-{"kanji":"一日","reading":"read","spanish":"span"},
-{"kanji":"二日","reading":"read","spanish":"span"},
-{"kanji":"三日","reading":"read","spanish":"span"},
-{"kanji":"四日","reading":"read","spanish":"span"},
-{"kanji":"五日","reading":"read","spanish":"span"},
-{"kanji":"六日","reading":"read","spanish":"span"},
-{"kanji":"七日","reading":"read","spanish":"span"},
-{"kanji":"八日","reading":"read","spanish":"span"},
-{"kanji":"九日","reading":"read","spanish":"span"},
-{"kanji":"十日","reading":"read","spanish":"span"},
-{"kanji":"二十日","reading":"read","spanish":"span"},
-{"kanji":"一日","reading":"read","spanish":"span"},
-{"kanji":"一月","reading":"read","spanish":"span"},
-{"kanji":"~日","reading":"read","spanish":"span"},
-{"kanji":"~週間","reading":"read","spanish":"span"},
-{"kanji":"~年","reading":"read","spanish":"span"},
-{"kanji":"~時","reading":"read","spanish":"span"},
-{"kanji":"~分","reading":"read","spanish":"span"},
-{"kanji":"~半","reading":"read","spanish":"span"},
-{"kanji":"~すぎ","reading":"read","spanish":"span"},
-{"kanji":"毎朝","reading":"read","spanish":"span"},
-{"kanji":"毎日","reading":"read","spanish":"span"},
-{"kanji":"毎週","reading":"read","spanish":"span"},
-{"kanji":"毎月","reading":"read","spanish":"span"},
-{"kanji":"毎年","reading":"read","spanish":"span"},
-{"kanji":"毎年","reading":"read","spanish":"span"},
-{"kanji":"毎晩","reading":"read","spanish":"span"},
-{"kanji":"春","reading":"read","spanish":"span"},
-{"kanji":"夏","reading":"read","spanish":"span"},
-{"kanji":"秋","reading":"read","spanish":"span"},
-{"kanji":"冬","reading":"read","spanish":"span"},
-{"kanji":"日曜日","reading":"read","spanish":"span"},
-{"kanji":"月曜日","reading":"read","spanish":"span"},
-{"kanji":"火曜日","reading":"read","spanish":"span"},
-{"kanji":"水曜日","reading":"read","spanish":"span"},
-{"kanji":"木曜日","reading":"read","spanish":"span"},
-{"kanji":"金曜日","reading":"read","spanish":"span"},
-{"kanji":"土曜日","reading":"read","spanish":"span"},
-{"kanji":"夏休み","reading":"read","spanish":"span"},
-{"kanji":"誕生日","reading":"read","spanish":"span"},
-{"kanji":"初めて","reading":"read","spanish":"span"},
-{"kanji":"いつも","reading":"read","spanish":"span"},
-{"kanji":"時々","reading":"read","spanish":"span"},
-{"kanji":"半","reading":"read","spanish":"span"},
-{"kanji":"今","reading":"read","spanish":"span"},
-{"kanji":"先","reading":"read","spanish":"span"},
-{"kanji":"後","reading":"read","spanish":"span"},
-{"kanji":"~中","reading":"read","spanish":"span"},
-{"kanji":"~中","reading":"read","spanish":"span"},
-{"kanji":"~ころ","reading":"read","spanish":"span"},
-{"kanji":"~ごろ","reading":"read","spanish":"span"},
-{"kanji":"いつ","reading":"read","spanish":"span"},
-{"kanji":"ここ","reading":"read","spanish":"span"},
-{"kanji":"こちら","reading":"read","spanish":"span"},
-{"kanji":"こっち","reading":"read","spanish":"span"},
-{"kanji":"そこ","reading":"read","spanish":"span"},
-{"kanji":"そちら","reading":"read","spanish":"span"},
-{"kanji":"そっち","reading":"read","spanish":"span"},
-{"kanji":"あそこ","reading":"read","spanish":"span"},
-{"kanji":"あちら","reading":"read","spanish":"span"},
-{"kanji":"あっち","reading":"read","spanish":"span"},
-{"kanji":"どこ","reading":"read","spanish":"span"},
-{"kanji":"どちら","reading":"read","spanish":"span"},
-{"kanji":"どっち","reading":"read","spanish":"span"},
-{"kanji":"上","reading":"read","spanish":"span"},
-{"kanji":"下","reading":"read","spanish":"span"},
-{"kanji":"中","reading":"read","spanish":"span"},
-{"kanji":"右","reading":"read","spanish":"span"},
-{"kanji":"左","reading":"read","spanish":"span"},
-{"kanji":"外","reading":"read","spanish":"span"},
-{"kanji":"前","reading":"read","spanish":"span"},
-{"kanji":"後ろ","reading":"read","spanish":"span"},
-{"kanji":"横","reading":"read","spanish":"span"},
-{"kanji":"北","reading":"read","spanish":"span"},
-{"kanji":"東","reading":"read","spanish":"span"},
-{"kanji":"西","reading":"read","spanish":"span"},
-{"kanji":"南","reading":"read","spanish":"span"},
-{"kanji":"角","reading":"read","spanish":"span"},
-{"kanji":"~側","reading":"read","spanish":"span"},
-{"kanji":"向こう","reading":"read","spanish":"span"},
-{"kanji":"隣","reading":"read","spanish":"span"},
-{"kanji":"辺　(この辺)","reading":"read","spanish":"span"},
-{"kanji":"そば","reading":"read","spanish":"span"},
-{"kanji":"近く","reading":"read","spanish":"span"},
-{"kanji":"外国","reading":"read","spanish":"span"},
-{"kanji":"国","reading":"read","spanish":"span"},
-{"kanji":"教室","reading":"read","spanish":"span"},
-{"kanji":"入り口","reading":"read","spanish":"span"},
-{"kanji":"出口","reading":"read","spanish":"span"},
-{"kanji":"玄関","reading":"read","spanish":"span"},
-{"kanji":"階段","reading":"read","spanish":"span"},
-{"kanji":"所","reading":"read","spanish":"span"},
-{"kanji":"建物","reading":"read","spanish":"span"},
-{"kanji":"道","reading":"read","spanish":"span"},
-{"kanji":"橋","reading":"read","spanish":"span"},
-{"kanji":"門","reading":"read","spanish":"span"},
-{"kanji":"アパート","reading":"read","spanish":"span"},
-{"kanji":"家","reading":"read","spanish":"span"},
-{"kanji":"うち","reading":"read","spanish":"span"},
-{"kanji":"会社","reading":"read","spanish":"span"},
-{"kanji":"映画館","reading":"read","spanish":"span"},
-{"kanji":"デパート","reading":"read","spanish":"span"},
-{"kanji":"店","reading":"read","spanish":"span"},
-{"kanji":"~屋","reading":"read","spanish":"span"},
-{"kanji":"スーパー","reading":"read","spanish":"span"},
-{"kanji":"コンビニ","reading":"read","spanish":"span"},
-{"kanji":"コンビニエンスストア","reading":"read","spanish":"span"},
-{"kanji":"喫茶店","reading":"read","spanish":"span"},
-{"kanji":"レストラン","reading":"read","spanish":"span"},
-{"kanji":"食堂","reading":"read","spanish":"span"},
-{"kanji":"学校","reading":"read","spanish":"span"},
-{"kanji":"大学","reading":"read","spanish":"span"},
-{"kanji":"図書館","reading":"read","spanish":"span"},
-{"kanji":"大使館","reading":"read","spanish":"span"},
-{"kanji":"ホテル","reading":"read","spanish":"span"},
-{"kanji":"郵便局","reading":"read","spanish":"span"},
-{"kanji":"銀行","reading":"read","spanish":"span"},
-{"kanji":"病院","reading":"read","spanish":"span"},
-{"kanji":"プル","reading":"read","spanish":"span"},
-{"kanji":"交番","reading":"read","spanish":"span"},
-{"kanji":"公園","reading":"read","spanish":"span"},
-{"kanji":"駅","reading":"read","spanish":"span"},
-{"kanji":"電車","reading":"read","spanish":"span"},
-{"kanji":"地下鉄","reading":"read","spanish":"span"},
-{"kanji":"バス","reading":"read","spanish":"span"},
-{"kanji":"タクシー","reading":"read","spanish":"span"},
-{"kanji":"新幹線","reading":"read","spanish":"span"},
-{"kanji":"体","reading":"read","spanish":"span"},
-{"kanji":"頭","reading":"read","spanish":"span"},
-{"kanji":"顔","reading":"read","spanish":"span"},
-{"kanji":"目","reading":"read","spanish":"span"},
-{"kanji":"耳","reading":"read","spanish":"span"},
-{"kanji":"鼻","reading":"read","spanish":"span"},
-{"kanji":"口","reading":"read","spanish":"span"},
-{"kanji":"歯","reading":"read","spanish":"span"},
-{"kanji":"おなか","reading":"read","spanish":"span"},
-{"kanji":"手","reading":"read","spanish":"span"},
-{"kanji":"足","reading":"read","spanish":"span"},
-{"kanji":"背/背","reading":"read","spanish":"span"},
-{"kanji":"声","reading":"read","spanish":"span"},
-{"kanji":"風邪","reading":"read","spanish":"span"},
-{"kanji":"薬","reading":"read","spanish":"span"},
-{"kanji":"天気","reading":"read","spanish":"span"},
-{"kanji":"雨","reading":"read","spanish":"span"},
-{"kanji":"風","reading":"read","spanish":"span"},
-{"kanji":"雪","reading":"read","spanish":"span"},
-{"kanji":"空","reading":"read","spanish":"span"},
-{"kanji":"山","reading":"read","spanish":"span"},
-{"kanji":"海","reading":"read","spanish":"span"},
-{"kanji":"川","reading":"read","spanish":"span"},
-{"kanji":"河","reading":"read","spanish":"span"},
-{"kanji":"池","reading":"read","spanish":"span"},
-{"kanji":"動物","reading":"read","spanish":"span"},
-{"kanji":"犬","reading":"read","spanish":"span"},
-{"kanji":"鳥","reading":"read","spanish":"span"},
-{"kanji":"魚","reading":"read","spanish":"span"},
-{"kanji":"木","reading":"read","spanish":"span"},
-{"kanji":"花","reading":"read","spanish":"span"},
-{"kanji":"水","reading":"read","spanish":"span"},
-{"kanji":"一","reading":"read","spanish":"span"},
-{"kanji":"一つ","reading":"read","spanish":"span"},
-{"kanji":"ニ","reading":"read","spanish":"span"},
-{"kanji":"二つ","reading":"read","spanish":"span"},
-{"kanji":"三","reading":"read","spanish":"span"},
-{"kanji":"三つ","reading":"read","spanish":"span"},
-{"kanji":"四","reading":"read","spanish":"span"},
-{"kanji":"四つ","reading":"read","spanish":"span"},
-{"kanji":"五","reading":"read","spanish":"span"},
-{"kanji":"五つ","reading":"read","spanish":"span"},
-{"kanji":"六","reading":"read","spanish":"span"},
-{"kanji":"六つ","reading":"read","spanish":"span"},
-{"kanji":"七","reading":"read","spanish":"span"},
-{"kanji":"七つ","reading":"read","spanish":"span"},
-{"kanji":"八","reading":"read","spanish":"span"},
-{"kanji":"八つ","reading":"read","spanish":"span"},
-{"kanji":"九","reading":"read","spanish":"span"},
-{"kanji":"九つ","reading":"read","spanish":"span"},
-{"kanji":"十","reading":"read","spanish":"span"},
-{"kanji":"十","reading":"read","spanish":"span"},
-{"kanji":"百","reading":"read","spanish":"span"},
-{"kanji":"千","reading":"read","spanish":"span"},
-{"kanji":"万","reading":"read","spanish":"span"},
-{"kanji":"ゼロ","reading":"read","spanish":"span"},
-{"kanji":"零","reading":"read","spanish":"span"},
-{"kanji":"キロ","reading":"read","spanish":"span"},
-{"kanji":"キログラム","reading":"read","spanish":"span"},
-{"kanji":"キロメートル","reading":"read","spanish":"span"},
-{"kanji":"グラム","reading":"read","spanish":"span"},
-{"kanji":"メートル","reading":"read","spanish":"span"},
-{"kanji":"いくつ","reading":"read","spanish":"span"},
-{"kanji":"いくら","reading":"read","spanish":"span"},
-{"kanji":"~くらい","reading":"read","spanish":"span"},
-{"kanji":"~ぐらい","reading":"read","spanish":"span"},
-{"kanji":"みんな","reading":"read","spanish":"span"},
-{"kanji":"全部","reading":"read","spanish":"span"},
-{"kanji":"~回","reading":"read","spanish":"span"},
-{"kanji":"~階","reading":"read","spanish":"span"},
-{"kanji":"~か月","reading":"read","spanish":"span"},
-{"kanji":"~月","reading":"read","spanish":"span"},
-{"kanji":"~歳","reading":"read","spanish":"span"},
-{"kanji":"二十歳","reading":"read","spanish":"span"},
-{"kanji":"~冊","reading":"read","spanish":"span"},
-{"kanji":"~台","reading":"read","spanish":"span"},
-{"kanji":"~度","reading":"read","spanish":"span"},
-{"kanji":"~杯","reading":"read","spanish":"span"},
-{"kanji":"~番","reading":"read","spanish":"span"},
-{"kanji":"番号","reading":"read","spanish":"span"},
-{"kanji":"半分","reading":"read","spanish":"span"},
-{"kanji":"~匹","reading":"read","spanish":"span"},
-{"kanji":"~本","reading":"read","spanish":"span"},
-{"kanji":"~枚","reading":"read","spanish":"span"},
-{"kanji":"~人","reading":"read","spanish":"span"},
-{"kanji":"一人","reading":"read","spanish":"span"},
-{"kanji":"二人","reading":"read","spanish":"span"},
-{"kanji":"色","reading":"read","spanish":"span"},
-{"kanji":"青","reading":"read","spanish":"span"},
-{"kanji":"赤","reading":"read","spanish":"span"},
-{"kanji":"茶色","reading":"read","spanish":"span"},
-{"kanji":"いちばん","reading":"read","spanish":"span"},
-{"kanji":"一緒","reading":"read","spanish":"span"},
-{"kanji":"いろいろ","reading":"read","spanish":"span"},
-{"kanji":"同じ","reading":"read","spanish":"span"},
-{"kanji":"こんな","reading":"read","spanish":"span"},
-{"kanji":"どんな","reading":"read","spanish":"span"},
-{"kanji":"すぐ","reading":"read","spanish":"span"},
-{"kanji":"すぐに","reading":"read","spanish":"span"},
-{"kanji":"たくさん","reading":"read","spanish":"span"},
-{"kanji":"少し","reading":"read","spanish":"span"},
-{"kanji":"ちょっと","reading":"read","spanish":"span"},
-{"kanji":"だんだん","reading":"read","spanish":"span"},
-{"kanji":"ちょうど","reading":"read","spanish":"span"},
-{"kanji":"もっと","reading":"read","spanish":"span"},
-{"kanji":"とても","reading":"read","spanish":"span"},
-{"kanji":"本当に","reading":"read","spanish":"span"},
-{"kanji":"どう","reading":"read","spanish":"span"},
-{"kanji":"いかが","reading":"read","spanish":"span"},
-{"kanji":"まっすぐ","reading":"read","spanish":"span"},
-{"kanji":"ゆっくり","reading":"read","spanish":"span"},
-{"kanji":"ゆっくりと","reading":"read","spanish":"span"},
-{"kanji":"歌","reading":"read","spanish":"span"},
-{"kanji":"音楽","reading":"read","spanish":"span"},
-{"kanji":"CD","reading":"read","spanish":"span"},
-{"kanji":"絵","reading":"read","spanish":"span"},
-{"kanji":"写真","reading":"read","spanish":"span"},
-{"kanji":"散歩","reading":"read","spanish":"span"},
-{"kanji":"旅行","reading":"read","spanish":"span"},
-{"kanji":"映画","reading":"read","spanish":"span"},
-{"kanji":"スポーツ","reading":"read","spanish":"span"},
-{"kanji":"パーティー","reading":"read","spanish":"span"},
-{"kanji":"ニュース","reading":"read","spanish":"span"},
-{"kanji":"勉強","reading":"read","spanish":"span"},
-{"kanji":"宿題","reading":"read","spanish":"span"},
-{"kanji":"テスト","reading":"read","spanish":"span"},
-{"kanji":"問題","reading":"read","spanish":"span"},
-{"kanji":"質問","reading":"read","spanish":"span"},
-{"kanji":"練習","reading":"read","spanish":"span"},
-{"kanji":"作文","reading":"read","spanish":"span"},
-{"kanji":"漢字","reading":"read","spanish":"span"},
-{"kanji":"ひらがな","reading":"read","spanish":"span"},
-{"kanji":"かたかな","reading":"read","spanish":"span"},
-{"kanji":"英語","reading":"read","spanish":"span"},
-{"kanji":"言葉","reading":"read","spanish":"span"},
-{"kanji":"意味","reading":"read","spanish":"span"},
-{"kanji":"授業","reading":"read","spanish":"span"},
-{"kanji":"クラス","reading":"read","spanish":"span"},
-{"kanji":"ノート","reading":"read","spanish":"span"},
-{"kanji":"ページ","reading":"read","spanish":"span"},
-{"kanji":"手紙","reading":"read","spanish":"span"},
-{"kanji":"名前","reading":"read","spanish":"span"},
-{"kanji":"話","reading":"read","spanish":"span"},
-{"kanji":"仕事","reading":"read","spanish":"span"},
-{"kanji":"休み","reading":"read","spanish":"span"},
-{"kanji":"結婚","reading":"read","spanish":"span"},
-{"kanji":"はい","reading":"read","spanish":"span"},
-{"kanji":"ええ","reading":"read","spanish":"span"},
-{"kanji":"いいえ","reading":"read","spanish":"span"},
-{"kanji":"もしもし","reading":"read","spanish":"span"},
-{"kanji":"では","reading":"read","spanish":"span"},
-{"kanji":"どうぞ","reading":"read","spanish":"span"},
-{"kanji":"どうも","reading":"read","spanish":"span"},
-{"kanji":"また","reading":"read","spanish":"span"},
-{"kanji":"まだ","reading":"read","spanish":"span"},
-{"kanji":"もう","reading":"read","spanish":"span"},
-{"kanji":"~など","reading":"read","spanish":"span"},
-{"kanji":"外","reading":"read","spanish":"span"},
-{"kanji":"何","reading":"read","spanish":"span"}
+  {
+    "Id": 1,
+    "Kanji": "人",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 2,
+    "Kanji": "父",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 3,
+    "Kanji": "母",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 4,
+    "Kanji": "親",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 5,
+    "Kanji": "お父さん",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 6,
+    "Kanji": "お母さん",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 7,
+    "Kanji": "伯父",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 8,
+    "Kanji": "叔父さん",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 9,
+    "Kanji": "伯母",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 10,
+    "Kanji": "叔母さん",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 11,
+    "Kanji": "おじいさん",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 12,
+    "Kanji": "おばあさん",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 13,
+    "Kanji": "兄弟",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 14,
+    "Kanji": "兄",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 15,
+    "Kanji": "お兄さん",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 16,
+    "Kanji": "姉",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 17,
+    "Kanji": "お姉さん",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 18,
+    "Kanji": "妹",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 19,
+    "Kanji": "妹さん",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 20,
+    "Kanji": "弟",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 21,
+    "Kanji": "弟さん",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 22,
+    "Kanji": "主人",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 23,
+    "Kanji": "御主人",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 24,
+    "Kanji": "妻",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 25,
+    "Kanji": "奥さん",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 26,
+    "Kanji": "家族",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 27,
+    "Kanji": "男",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 28,
+    "Kanji": "男の子",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 29,
+    "Kanji": "女",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 30,
+    "Kanji": "女の子",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 31,
+    "Kanji": "方",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 32,
+    "Kanji": "大人",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 33,
+    "Kanji": "子供",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 34,
+    "Kanji": "あなた",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 35,
+    "Kanji": "自分",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 36,
+    "Kanji": "生徒",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 37,
+    "Kanji": "先生",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 38,
+    "Kanji": "学生",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 39,
+    "Kanji": "留学生",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 40,
+    "Kanji": "おまわりさん",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 41,
+    "Kanji": "医者",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 42,
+    "Kanji": "お医者さん",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 43,
+    "Kanji": "友達",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 44,
+    "Kanji": "外国人",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 45,
+    "Kanji": "皆さん",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 46,
+    "Kanji": "だれ",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 47,
+    "Kanji": "どなた",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 8,
+    "Kanji": "~たち",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 49,
+    "Kanji": "飲み物",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 50,
+    "Kanji": "食べ物",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 51,
+    "Kanji": "朝御飯",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 52,
+    "Kanji": "昼御飯",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 53,
+    "Kanji": "晩御飯",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 54,
+    "Kanji": "飴",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 55,
+    "Kanji": "お菓子",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 56,
+    "Kanji": "お酒",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 57,
+    "Kanji": "お茶",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 58,
+    "Kanji": "お弁当",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 59,
+    "Kanji": "カレー",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 60,
+    "Kanji": "牛乳",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 61,
+    "Kanji": "果物",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 62,
+    "Kanji": "野菜",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 63,
+    "Kanji": "御飯",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 64,
+    "Kanji": "砂糖",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 65,
+    "Kanji": "塩",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 66,
+    "Kanji": "しょうゆ",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 67,
+    "Kanji": "料理",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 68,
+    "Kanji": "バター",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 69,
+    "Kanji": "パン",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 70,
+    "Kanji": "肉",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 71,
+    "Kanji": "牛肉",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 72,
+    "Kanji": "とり肉",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 73,
+    "Kanji": "豚肉",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 74,
+    "Kanji": "卵",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 75,
+    "Kanji": "ちゃわん",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 76,
+    "Kanji": "はし",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 77,
+    "Kanji": "お皿",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 78,
+    "Kanji": "コップ",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 79,
+    "Kanji": "ナイフ",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 80,
+    "Kanji": "フォーク",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 81,
+    "Kanji": "スプーン",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 82,
+    "Kanji": "灰皿",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 83,
+    "Kanji": "靴",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 84,
+    "Kanji": "スリッパ",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 85,
+    "Kanji": "靴下",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 86,
+    "Kanji": "服",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 87,
+    "Kanji": "洋服",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 88,
+    "Kanji": "コート",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 89,
+    "Kanji": "シャツ",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 90,
+    "Kanji": "ワイシャツ",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 91,
+    "Kanji": "スカート",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 92,
+    "Kanji": "ズボン",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 93,
+    "Kanji": "セーター",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 94,
+    "Kanji": "背広",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 95,
+    "Kanji": "ハンカチ",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 96,
+    "Kanji": "帽子",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 97,
+    "Kanji": "ポケット",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 98,
+    "Kanji": "ボタン",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 99,
+    "Kanji": "たばこ",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 100,
+    "Kanji": "せっけん",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 101,
+    "Kanji": "洗濯",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 102,
+    "Kanji": "掃除",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 103,
+    "Kanji": "買い物",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 104,
+    "Kanji": "家",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 105,
+    "Kanji": "部屋",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 106,
+    "Kanji": "台所",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 107,
+    "Kanji": "お手洗い",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 108,
+    "Kanji": "トイレ",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 109,
+    "Kanji": "お風呂",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 110,
+    "Kanji": "戸",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 111,
+    "Kanji": "ドア",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 112,
+    "Kanji": "窓",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 113,
+    "Kanji": "庭",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 114,
+    "Kanji": "机",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 115,
+    "Kanji": "テーブル",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 116,
+    "Kanji": "いす",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 117,
+    "Kanji": "本棚",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 118,
+    "Kanji": "ベッド",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 119,
+    "Kanji": "ストーブ",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 120,
+    "Kanji": "電気",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 121,
+    "Kanji": "電話",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 122,
+    "Kanji": "家庭",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 123,
+    "Kanji": "物",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 124,
+    "Kanji": "お金",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 125,
+    "Kanji": "眼鏡",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 126,
+    "Kanji": "かばん",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 127,
+    "Kanji": "ペン",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 128,
+    "Kanji": "ボールペン",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 129,
+    "Kanji": "鉛筆",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 130,
+    "Kanji": "紙",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 131,
+    "Kanji": "箱",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 132,
+    "Kanji": "封筒",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 133,
+    "Kanji": "葉書",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 134,
+    "Kanji": "切手",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 135,
+    "Kanji": "本",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 136,
+    "Kanji": "雑誌",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 137,
+    "Kanji": "新聞",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 138,
+    "Kanji": "辞書",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 139,
+    "Kanji": "地図",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 140,
+    "Kanji": "カレンダー",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 141,
+    "Kanji": "冷蔵庫",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 142,
+    "Kanji": "テレビ",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 143,
+    "Kanji": "ラジオ",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 144,
+    "Kanji": "テープ",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 145,
+    "Kanji": "テープレコーダー",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 146,
+    "Kanji": "カメラ",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 147,
+    "Kanji": "時計",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 148,
+    "Kanji": "ギター",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 149,
+    "Kanji": "フィルム",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 150,
+    "Kanji": "傘",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 151,
+    "Kanji": "花瓶",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 152,
+    "Kanji": "切符",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 153,
+    "Kanji": "車",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 154,
+    "Kanji": "自動車",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 155,
+    "Kanji": "自転車",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 156,
+    "Kanji": "飛行機",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 157,
+    "Kanji": "船",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 158,
+    "Kanji": "エレベーター",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 159,
+    "Kanji": "エスカレーター",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 160,
+    "Kanji": "時間",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 161,
+    "Kanji": "今日",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 162,
+    "Kanji": "昨日",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 163,
+    "Kanji": "あした",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 164,
+    "Kanji": "あさって",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 165,
+    "Kanji": "おととい",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 166,
+    "Kanji": "午前",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 167,
+    "Kanji": "午後",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 168,
+    "Kanji": "今年",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 169,
+    "Kanji": "来年",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 170,
+    "Kanji": "去年",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 171,
+    "Kanji": "おととし",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 172,
+    "Kanji": "さ来年",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 173,
+    "Kanji": "今週",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 174,
+    "Kanji": "来週",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 175,
+    "Kanji": "先週",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 176,
+    "Kanji": "今月",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 177,
+    "Kanji": "来月",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 178,
+    "Kanji": "先月",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 179,
+    "Kanji": "朝",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 180,
+    "Kanji": "昼",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 181,
+    "Kanji": "夕方",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 182,
+    "Kanji": "晩",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 183,
+    "Kanji": "夜",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 184,
+    "Kanji": "ゆうべ",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 185,
+    "Kanji": "今朝",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 186,
+    "Kanji": "今晩",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 187,
+    "Kanji": "一日",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 188,
+    "Kanji": "二日",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 189,
+    "Kanji": "三日",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 190,
+    "Kanji": "四日",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 191,
+    "Kanji": "五日",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 192,
+    "Kanji": "六日",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 193,
+    "Kanji": "七日",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 194,
+    "Kanji": "八日",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 195,
+    "Kanji": "九日",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 196,
+    "Kanji": "十日",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 197,
+    "Kanji": "二十日",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 198,
+    "Kanji": "一日",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 199,
+    "Kanji": "一月",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 200,
+    "Kanji": "~日",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 201,
+    "Kanji": "~週間",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 202,
+    "Kanji": "~年",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 203,
+    "Kanji": "~時",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 204,
+    "Kanji": "~分",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 205,
+    "Kanji": "~半",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 206,
+    "Kanji": "~すぎ",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 207,
+    "Kanji": "毎朝",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 208,
+    "Kanji": "毎日",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 209,
+    "Kanji": "毎週",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 210,
+    "Kanji": "毎月",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 211,
+    "Kanji": "毎年",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 212,
+    "Kanji": "毎年",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 213,
+    "Kanji": "毎晩",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 214,
+    "Kanji": "春",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 215,
+    "Kanji": "夏",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 216,
+    "Kanji": "秋",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 217,
+    "Kanji": "冬",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 218,
+    "Kanji": "日曜日",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 219,
+    "Kanji": "月曜日",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 220,
+    "Kanji": "火曜日",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 221,
+    "Kanji": "水曜日",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 222,
+    "Kanji": "木曜日",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 223,
+    "Kanji": "金曜日",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 224,
+    "Kanji": "土曜日",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 225,
+    "Kanji": "夏休み",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 226,
+    "Kanji": "誕生日",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 227,
+    "Kanji": "初めて",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 228,
+    "Kanji": "いつも",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 229,
+    "Kanji": "時々",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 230,
+    "Kanji": "半",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 231,
+    "Kanji": "今",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 232,
+    "Kanji": "先",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 233,
+    "Kanji": "後",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 234,
+    "Kanji": "~中",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 235,
+    "Kanji": "~中",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 236,
+    "Kanji": "~ころ",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 237,
+    "Kanji": "~ごろ",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 238,
+    "Kanji": "いつ",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 239,
+    "Kanji": "ここ",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 240,
+    "Kanji": "こちら",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 241,
+    "Kanji": "こっち",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 242,
+    "Kanji": "そこ",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 243,
+    "Kanji": "そちら",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 244,
+    "Kanji": "そっち",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 245,
+    "Kanji": "あそこ",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 246,
+    "Kanji": "あちら",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 247,
+    "Kanji": "あっち",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 248,
+    "Kanji": "どこ",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 249,
+    "Kanji": "どちら",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 250,
+    "Kanji": "どっち",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 251,
+    "Kanji": "上",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 252,
+    "Kanji": "下",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 253,
+    "Kanji": "中",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 254,
+    "Kanji": "右",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 255,
+    "Kanji": "左",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 256,
+    "Kanji": "外",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 257,
+    "Kanji": "前",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 258,
+    "Kanji": "後ろ",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 259,
+    "Kanji": "横",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 260,
+    "Kanji": "北",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 261,
+    "Kanji": "東",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 262,
+    "Kanji": "西",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 263,
+    "Kanji": "南",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 264,
+    "Kanji": "角",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 265,
+    "Kanji": "~側",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 266,
+    "Kanji": "向こう",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 267,
+    "Kanji": "隣",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 268,
+    "Kanji": "辺　(この辺)",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 269,
+    "Kanji": "そば",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 270,
+    "Kanji": "近く",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 271,
+    "Kanji": "外国",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 272,
+    "Kanji": "国",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 273,
+    "Kanji": "教室",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 274,
+    "Kanji": "入り口",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 275,
+    "Kanji": "出口",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 276,
+    "Kanji": "玄関",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 277,
+    "Kanji": "階段",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 278,
+    "Kanji": "所",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 279,
+    "Kanji": "建物",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 280,
+    "Kanji": "道",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 281,
+    "Kanji": "橋",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 282,
+    "Kanji": "門",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 286,
+    "Kanji": "アパート",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 284,
+    "Kanji": "家",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 285,
+    "Kanji": "うち",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 286,
+    "Kanji": "会社",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 287,
+    "Kanji": "映画館",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 288,
+    "Kanji": "デパート",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 289,
+    "Kanji": "店",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 290,
+    "Kanji": "~屋",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 291,
+    "Kanji": "スーパー",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 292,
+    "Kanji": "コンビニ",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 293,
+    "Kanji": "コンビニエンスストア",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 294,
+    "Kanji": "喫茶店",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 295,
+    "Kanji": "レストラン",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 296,
+    "Kanji": "食堂",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 297,
+    "Kanji": "学校",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 298,
+    "Kanji": "大学",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 299,
+    "Kanji": "図書館",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 300,
+    "Kanji": "大使館",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 301,
+    "Kanji": "ホテル",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 302,
+    "Kanji": "郵便局",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 303,
+    "Kanji": "銀行",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 304,
+    "Kanji": "病院",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 305,
+    "Kanji": "プル",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 306,
+    "Kanji": "交番",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 307,
+    "Kanji": "公園",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 308,
+    "Kanji": "駅",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 309,
+    "Kanji": "電車",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 310,
+    "Kanji": "地下鉄",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 311,
+    "Kanji": "バス",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 312,
+    "Kanji": "タクシー",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 313,
+    "Kanji": "新幹線",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 314,
+    "Kanji": "体",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 315,
+    "Kanji": "頭",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 316,
+    "Kanji": "顔",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 317,
+    "Kanji": "目",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 318,
+    "Kanji": "耳",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 319,
+    "Kanji": "鼻",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 320,
+    "Kanji": "口",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 321,
+    "Kanji": "歯",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 322,
+    "Kanji": "おなか",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 323,
+    "Kanji": "手",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 324,
+    "Kanji": "足",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 325,
+    "Kanji": "背/背",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 326,
+    "Kanji": "声",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 327,
+    "Kanji": "風邪",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 328,
+    "Kanji": "薬",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 329,
+    "Kanji": "天気",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 330,
+    "Kanji": "雨",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 331,
+    "Kanji": "風",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 332,
+    "Kanji": "雪",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 333,
+    "Kanji": "空",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 334,
+    "Kanji": "山",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 335,
+    "Kanji": "海",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 336,
+    "Kanji": "川",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 337,
+    "Kanji": "河",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 338,
+    "Kanji": "池",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 339,
+    "Kanji": "動物",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 340,
+    "Kanji": "犬",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 341,
+    "Kanji": "鳥",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 342,
+    "Kanji": "魚",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 343,
+    "Kanji": "木",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 344,
+    "Kanji": "花",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 345,
+    "Kanji": "水",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 346,
+    "Kanji": "一",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 347,
+    "Kanji": "一つ",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 348,
+    "Kanji": "ニ",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 349,
+    "Kanji": "二つ",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 350,
+    "Kanji": "三",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 351,
+    "Kanji": "三つ",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 352,
+    "Kanji": "四",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 356,
+    "Kanji": "四つ",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 354,
+    "Kanji": "五",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 355,
+    "Kanji": "五つ",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 356,
+    "Kanji": "六",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 357,
+    "Kanji": "六つ",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 358,
+    "Kanji": "七",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 359,
+    "Kanji": "七つ",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 360,
+    "Kanji": "八",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 361,
+    "Kanji": "八つ",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 362,
+    "Kanji": "九",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 363,
+    "Kanji": "九つ",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 364,
+    "Kanji": "十",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 65,
+    "Kanji": "十",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 366,
+    "Kanji": "百",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 367,
+    "Kanji": "千",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 368,
+    "Kanji": "万",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 369,
+    "Kanji": "ゼロ",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 370,
+    "Kanji": "零",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 371,
+    "Kanji": "キロ",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 372,
+    "Kanji": "キログラム",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 373,
+    "Kanji": "キロメートル",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 374,
+    "Kanji": "グラム",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 375,
+    "Kanji": "メートル",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 376,
+    "Kanji": "いくつ",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 377,
+    "Kanji": "いくら",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 378,
+    "Kanji": "~くらい",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 379,
+    "Kanji": "~ぐらい",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 380,
+    "Kanji": "みんな",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 381,
+    "Kanji": "全部",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 382,
+    "Kanji": "~回",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 383,
+    "Kanji": "~階",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 384,
+    "Kanji": "~か月",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 385,
+    "Kanji": "~月",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 386,
+    "Kanji": "~歳",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 387,
+    "Kanji": "二十歳",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 388,
+    "Kanji": "~冊",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 389,
+    "Kanji": "~台",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 390,
+    "Kanji": "~度",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 391,
+    "Kanji": "~杯",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 392,
+    "Kanji": "~番",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 393,
+    "Kanji": "番号",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 394,
+    "Kanji": "半分",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 395,
+    "Kanji": "~匹",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 396,
+    "Kanji": "~本",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 397,
+    "Kanji": "~枚",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 398,
+    "Kanji": "~人",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 399,
+    "Kanji": "一人",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 400,
+    "Kanji": "二人",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 401,
+    "Kanji": "色",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 402,
+    "Kanji": "青",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 403,
+    "Kanji": "赤",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 404,
+    "Kanji": "茶色",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 405,
+    "Kanji": "いちばん",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 406,
+    "Kanji": "一緒",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 407,
+    "Kanji": "いろいろ",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 408,
+    "Kanji": "同じ",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 409,
+    "Kanji": "こんな",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 410,
+    "Kanji": "どんな",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 411,
+    "Kanji": "すぐ",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 412,
+    "Kanji": "すぐに",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 413,
+    "Kanji": "たくさん",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 414,
+    "Kanji": "少し",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 415,
+    "Kanji": "ちょっと",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 416,
+    "Kanji": "だんだん",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 417,
+    "Kanji": "ちょうど",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 418,
+    "Kanji": "もっと",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 419,
+    "Kanji": "とても",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 420,
+    "Kanji": "本当に",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 421,
+    "Kanji": "どう",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 422,
+    "Kanji": "いかが",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 423,
+    "Kanji": "まっすぐ",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 424,
+    "Kanji": "ゆっくり",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 425,
+    "Kanji": "ゆっくりと",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 426,
+    "Kanji": "歌",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 427,
+    "Kanji": "音楽",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 428,
+    "Kanji": "CD",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 429,
+    "Kanji": "絵",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 430,
+    "Kanji": "写真",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 431,
+    "Kanji": "散歩",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 432,
+    "Kanji": "旅行",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 433,
+    "Kanji": "映画",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 434,
+    "Kanji": "スポーツ",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 435,
+    "Kanji": "パーティー",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 436,
+    "Kanji": "ニュース",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 437,
+    "Kanji": "勉強",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 438,
+    "Kanji": "宿題",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 439,
+    "Kanji": "テスト",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 440,
+    "Kanji": "問題",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 441,
+    "Kanji": "質問",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 442,
+    "Kanji": "練習",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 443,
+    "Kanji": "作文",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 444,
+    "Kanji": "漢字",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 445,
+    "Kanji": "ひらがな",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 446,
+    "Kanji": "かたかな",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 447,
+    "Kanji": "英語",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 448,
+    "Kanji": "言葉",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 449,
+    "Kanji": "意味",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 450,
+    "Kanji": "授業",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 451,
+    "Kanji": "クラス",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 452,
+    "Kanji": "ノート",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 453,
+    "Kanji": "ページ",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 454,
+    "Kanji": "手紙",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 455,
+    "Kanji": "名前",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 456,
+    "Kanji": "話",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 457,
+    "Kanji": "仕事",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 458,
+    "Kanji": "休み",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 459,
+    "Kanji": "結婚",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 460,
+    "Kanji": "はい",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 461,
+    "Kanji": "ええ",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 462,
+    "Kanji": "いいえ",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 463,
+    "Kanji": "もしもし",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 464,
+    "Kanji": "では",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 465,
+    "Kanji": "どうぞ",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 466,
+    "Kanji": "どうも",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 467,
+    "Kanji": "また",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 468,
+    "Kanji": "まだ",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 469,
+    "Kanji": "もう",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 470,
+    "Kanji": "~など",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 471,
+    "Kanji": "外",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  },
+  {
+    "Id": 472,
+    "Kanji": "何",
+    "On": "on",
+    "Kun": "kun",
+    "Spain": "spain"
+  }
 ]
